@@ -23,9 +23,8 @@ export default function Home() {
             Achahrour&apos;s Personal Website
           </h1>
           <p className="max-w-2xl text-lg text-gray-700 dark:text-gray-300">
-            Welcome to my personal website! Here you can find information about me,
-            my projects, and how to contact me. Feel free to explore and learn
-            more about what I do.
+            Welcome to my personal website!
+            It&apos;s under construction.
           </p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
